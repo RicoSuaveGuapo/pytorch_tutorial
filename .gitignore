@@ -1,0 +1,8 @@
+windows/
+god_dataset/
+.ipynb_checkpoints/
+package/
+runs/
+*.zip
+*.pyc
+*.pth
